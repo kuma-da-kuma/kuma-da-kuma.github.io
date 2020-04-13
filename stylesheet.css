@@ -15,4 +15,6 @@ p2,p4{
  background-image:url (https://github.com/kuma-da-kuma/kuma-da-kuma.github.io/blob/master/%E7%B4%A0%E6%9D%90/2016_0611_14_08_21_266.jpg?raw=true)
  background-size:cover;
  opacity:0.5;
+ width:300px;
+ margin:0 auto;
 }
